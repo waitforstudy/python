@@ -1,2 +1,2 @@
 # python
-langchain等ai框架中用到的python高级语法
+本仓库记录langchain等ai框架中用到的python高级语法，也是对自己学习过程的一个记录
